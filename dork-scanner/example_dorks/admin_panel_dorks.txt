@@ -1,0 +1,5 @@
+inurl:admin
+intitle:"admin panel"
+inurl:login/admin
+inurl:cms/login
+inurl:admin/login

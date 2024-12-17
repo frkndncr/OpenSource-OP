@@ -1,0 +1,6 @@
+intext:"Warning: mysql_fetch_array()"
+intext:"Warning: include()"
+intext:"Warning: require_once()"
+intext:"Warning: array_merge()"
+inurl:error.php
+intext:"Error: Unexpected"

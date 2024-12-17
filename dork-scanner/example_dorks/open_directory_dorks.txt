@@ -1,0 +1,5 @@
+intitle:"index of /"
+intitle:"index of /admin"
+intitle:"index of /backup"
+intitle:"index of /private"
+intitle:"index of /uploads"
