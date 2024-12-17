@@ -52,10 +52,10 @@ dork-scanner/
 ├── results.txt  
 ├── example_dorks/  
 │   ├── admin_panel_dorks.txt  
-│   └── error_based_dorks.txt 
-│   └── file_inclusion_dorks.txt 
-│   └── open_directory_dorks.txt 
-│   └── sql_injection_dorks.txt 
+│   ├── error_based_dorks.txt 
+│   ├── file_inclusion_dorks.txt 
+│   ├── open_directory_dorks.txt 
+│   ├── sql_injection_dorks.txt 
 └── README.md
 
 ## 📫 İletişim
